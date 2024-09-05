@@ -17,7 +17,7 @@
         </div>
         <div class="flex-shrink-1 me-auto ms-auto mt-auto mb-auto">
             <form action="proses.php" method="post">
-                <h2 class="mt-4 cssanimation fadeInBottom" id="judul">Beri saran kamu</h2>
+                <h2 class="mt-4 cssanimation fadeInBottom" id="judul">Beri saran kamu untuk kami</h2>
                 <div class="mt-4 mb-3">
                     <label class="form-label">Nama</label>
                     <input class="form-control" id="form-control-admin-login" name="nama">
